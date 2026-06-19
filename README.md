@@ -1,5 +1,9 @@
 <div align="center">
 
+
+<img src="banner.png" alt="Awesome! Mi Sitio" width="100%">
+
+
 # ¡Hola! Soy Josue Jordan Pacheco 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n;Desarrollador+Web+%7C+Desarrollador+Software;Apasionado+por+la+Arquitectura+de+Sistemas" alt="Typing SVG" /></a>
