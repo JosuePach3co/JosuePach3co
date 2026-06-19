@@ -46,7 +46,7 @@ Soy un desarrollador en formación con un enfoque dual: disfruto tanto creando i
 ### 1. 🌟 Curriculum Vitae
 * **Descripción:** Página web que muestra trayectoria acádemica con una interfaz amigable con resumen, experiencia, galería de proyectos, proyectos y habilidades.
 * **Tecnologías:** `HTML`, `CSS`.
-* **🔗 [Ver Repositorio](https://josuepach3co.github.io/curriculum/)**
+* **🔗 [Ver Repositorio](https://github.com/JosuePach3co/curriculum)**
 
 ### 2. ⚙️ OpiUni
 * **Descripción:** Sistema backend enfocado en la gestión universitaria y el manejo de lógica académica, optimizado mediante procedimientos almacenados en base de datos.
