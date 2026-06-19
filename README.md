@@ -41,22 +41,22 @@ Soy un desarrollador en formación con un enfoque dual: disfruto tanto creando i
 
 ## 🚀 Proyectos Destacados
 
-*Aquí presento una selección de los proyectos que demuestran la aplicación práctica de mis conocimientos (Necesitas añadir al menos 3 descripciones aquí):*
+*Aquí presento una selección de los proyectos que demuestran la aplicación práctica de mis conocimientos:*
 
-### 1. 🌟 [Nombre del Proyecto 1]
-* **Descripción:** Breve explicación de lo que hace tu proyecto.
-* **Tecnologías:** `HTML`, `CSS`, `JavaScript`.
-* **🔗 [Ver Repositorio](URL_DEL_REPO_1)**
+### 1. 🌟 Curriculum Vitae
+* **Descripción:** Página web que muestra trayectoria acádemica con una interfaz amigable con resumen, experiencia, galería de proyectos, proyectos y habilidades.
+* **Tecnologías:** `HTML`, `CSS`.
+* **🔗 [Ver Repositorio](https://josuepach3co.github.io/curriculum/)**
 
-### 2. ⚙️ [Nombre del Proyecto 2]
-* **Descripción:** Breve explicación de lo que hace tu proyecto.
+### 2. ⚙️ OpiUni
+* **Descripción:** Sistema backend enfocado en la gestión universitaria y el manejo de lógica académica, optimizado mediante procedimientos almacenados en base de datos.
 * **Tecnologías:** `Java`, `SQL`.
-* **🔗 [Ver Repositorio](URL_DEL_REPO_2)**
+* **🔗 [Ver Repositorio](https://github.com/JosuePach3co/OpiUni)**
 
-### 3. 🌐 [Nombre del Proyecto 3]
-* **Descripción:** Breve explicación de lo que hace tu proyecto.
-* **Tecnologías:** `Python`.
-* **🔗 [Ver Repositorio](URL_DEL_REPO_3)**
+### 3. Finanza Personal🌐 
+* **Descripción:** Aplicación móvil android estructurada bajo los principios de la Programación Orientada a Objetos, garantizando modularidad, escalabilidad y una correcta gestión de componentes. Permite sobrellevar gastos, ingresos, cuentas y demás.
+* **Tecnologías:** `Java`, `Android Studio`.
+* **🔗 [Ver Repositorio](https://github.com/Jecs17/POO_P2-G01-Android)**
 
 ---
 
